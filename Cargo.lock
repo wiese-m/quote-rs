@@ -542,7 +542,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "quoter"
+name = "quote-rs"
 version = "0.1.0"
 dependencies = [
  "futures-util",
